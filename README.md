@@ -47,9 +47,9 @@ Predicted: 7, True: 7
 ## project structure
 
 mnist-digit-classifier/
-├── handwritten_digit_classifier.ipynb      # Main Python script
-├── requirements.txt                        # Dependency file
-├── README.md                               # Project documentation
+├── handwritten_digit_classifier.ipynb  
+├── requirements.txt    
+├── README.md                               
 
 ### 📥 1. Clone the Repository
 
