@@ -47,6 +47,7 @@ Predicted: 7, True: 7
 ## project structure
 
 mnist-digit-classifier/
+
 ├── handwritten_digit_classifier.ipynb  
 ├── requirements.txt    
 ├── README.md                               
