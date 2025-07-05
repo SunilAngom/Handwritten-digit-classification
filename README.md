@@ -32,10 +32,29 @@ To build and train a deep learning model that can classify digits (0–9) with h
 
 ---
 
-## 🚀 How to Run the Project
+## 🚀 Run the Project
 
 ### 📥 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/mnist-digit-classifier.git
 cd mnist-digit-classifier
+
+---
+
+Epoch 10/10
+...
+Test Accuracy: 0.9814
+Predicted: 7, True: 7
+
+
+---
+
+mnist-digit-classifier/
+├── mnist_classifier.py         # Main Python script
+├── requirements.txt            # Dependency file
+├── README.md                   # Project documentation
+└── assets/                     # Folder for images (optional)
+    ├── predictions_grid.png
+    └── accuracy_loss_plot.png
+
